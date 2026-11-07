@@ -10,7 +10,7 @@
 This repository contains the official landing page for the bot.
 
 **👉 Try it now: [t.me/beu_syllabuss_bot](https://t.me/beu_syllabuss_bot)**
-**🌐 Website: [your-domain.example](https://your-domain.example/)**
+**🌐 Website: [my-live.website](https://github.com/mdzafar864/beu-syllabus-bot-landing))**
 
 ---
 
